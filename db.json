@@ -1,0 +1,8 @@
+{
+    "movies": [
+      { "id": 1, "title": "Rambo", "watched": false},
+      { "id": 2, "title": "Killer", "watched": true },
+      { "id": 3, "title": "Psy", "watched": false },
+      { "id": 4, "title": "Shrek", "watched": false }
+    ]
+  }
